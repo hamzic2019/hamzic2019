@@ -1,7 +1,7 @@
 ### Hi there, I'm [Haris Hamzić](https://www.linkedin.com/in/hamzic2019/) 👋
 
 ## Technology Enthusiast, Full Stack Engineer !!
-- 🌱 I’m currently learning everything 🤣
+- ❤️ I’m in love with Javascript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
