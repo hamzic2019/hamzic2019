@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
-If you are interested to see [my portofolio](https://github.com/hamzic2019/Portofolio), be free to check it out!
+If you are interested to see [PORTOFOLIO](https://github.com/hamzic2019/Portofolio), be free to check it out!
 
 
 ### Languages and Tools:
