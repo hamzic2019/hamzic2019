@@ -4,7 +4,7 @@
 
 - ❤️ I’m in love with Javascript 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 If you are interested to see [PORTOFOLIO](https://github.com/hamzic2019/Portofolio), be free to check it out!
