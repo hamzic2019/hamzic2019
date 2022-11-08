@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
-> Outdated, new portofolio is coming soon.
+
+> Portofolio outdated, new portofolio is coming soon.
 If you are interested to see [PORTOFOLIO](https://github.com/hamzic2019/Portofolio), be free to check it out!
 
 
