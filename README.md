@@ -1,6 +1,6 @@
 ### Hi there, I'm [Haris Hamzić](https://www.linkedin.com/in/hamzic2019/) 👋
 
-## Technology Enthusiast, Full Stack Engineer !!
+## Technology Enthusiast, Full Stack Engineer !
 
 - ❤️ I’m in love with Javascript 🤣
 - 👯 I’m looking to collaborate with other content creators
