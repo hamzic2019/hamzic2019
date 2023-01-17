@@ -3,7 +3,7 @@
 ## Technology Enthusiast, Full Stack Engineer !
 
 - ❤️ I’m in love with Javascript 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 
