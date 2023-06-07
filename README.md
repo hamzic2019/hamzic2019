@@ -1,40 +1,39 @@
-### Hi there, I'm [Haris Hamzić](https://www.linkedin.com/in/hamzic2019/) 👋👋
+<h1 align="center">👋 Hi there, I'm Haris Hamzić</h1>
 
-## Technology Enthusiast, Full Stack Engineer !
+<p align="center">
+  <strong>Technology Enthusiast, Full Stack Engineer!</strong>
+</p>
 
-- ❤️ I’m in love with Javascript 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
+<p align="center">
+  ❤️ I'm in love with JavaScript 🚀<br>
+  👯 I'm looking to collaborate with other content creators.<br>
+  🥅 2023 Goals: Contribute more to Open Source projects and create amazing applications.<br>
+  <blockquote align="center">
+    <em>Portfolio outdated, new portfolio is coming soon... Stay tuned!</em>
+  </blockquote>
+  If you are interested to see my <a href="https://github.com/hamzic2019/Portfolio">PORTFOLIO</a>, feel free to check it out!
+</p>
 
-> Portofolio outdated, new portofolio is coming soon..
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hamzic2019.hamzic2019" alt="Profile Visitors" />
+</p>
 
-If you are interested to see [PORTOFOLIO](https://github.com/hamzic2019/Portofolio), be free to check it out!
-
-
-### Languages and Tools:
-
-<img align="left" alt="Atom Editor" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://miro.medium.com/max/3964/1*AwvDJDfErlD34ox2QpwGoA.png" />
-<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/B/blockchain-logo-099BC7E414-seeklogo.com.png" />
-<br />
-<br />
-
----
-
-### Connect with me:
-
-[<img align="left" alt="Aditya Mandil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hamzic2019/)
+<p align="center">
+  <strong>Connect with me:</strong><br>
+  <a href="https://www.linkedin.com/in/hamzic2019/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
