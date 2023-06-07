@@ -23,9 +23,8 @@
   ❤️ I'm passionate about JavaScript, Python, and Java 🚀<br>
   👯 I'm looking to collaborate with other content creators.<br>
   🥅 My goal for 2023 is to contribute more to Open Source projects and build amazing applications.<br>
-  <blockquote align="center">
-    <em>My portfolio is currently being revamped... Stay tuned!</em>
-  </blockquote>
+  <br>
+  <em>My portfolio is currently being revamped... Stay tuned!</em><br>
   If you are interested to see my <a href="https://github.com/hamzic2019/Portfolio">PORTFOLIO</a>, feel free to check it out!
 </p>
 
@@ -36,22 +35,6 @@
 <p align="center">
   <strong>About Me:</strong><br>
   I'm a tech enthusiast and full stack engineer with a passion for creating innovative solutions. With a strong background in JavaScript, Python, and Java, I enjoy working on projects that challenge me and allow me to learn and grow. My goal is to make a positive impact in the tech industry by contributing to open source projects and building powerful applications. Let's connect and collaborate!
-</p>
-
-<p align="center">
-  <strong>Languages and Tools:</strong><br>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
 </p>
 
 <p align="center">
