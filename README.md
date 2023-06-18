@@ -32,10 +32,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=hamzic2019.hamzic2019" alt="Profile Visitors" />
 </p>
 
-<p align="center">
-  <strong>About Me:</strong><br>
-  I'm a tech enthusiast and full stack engineer with a passion for creating innovative solutions. With a strong background in JavaScript, Python, and Java, I enjoy working on projects that challenge me and allow me to learn and grow. My goal is to make a positive impact in the tech industry by contributing to open source projects and building powerful applications. Let's connect and collaborate!
-</p>
 
 <p align="center">
   <strong>Connect with me:</strong><br>
